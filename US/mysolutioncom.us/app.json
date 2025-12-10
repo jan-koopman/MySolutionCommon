@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "1aea3a80-9436-42f2-8ee7-ffd2e42786ad",
+      "name": "mysolutioncom.w1",
+      "publisher": "MicroDynamics",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
